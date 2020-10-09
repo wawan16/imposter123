@@ -1,0 +1,22 @@
+*{
+	font-family: sans-serif;
+}
+body{
+	position: absolute;
+	top: 10%;
+	left: 30%;
+ 	background-image: url('gn.jpg');
+ 	background-size: cover;
+ }
+ form{
+ 	background-image: url('gn.jpg');
+ 	color: #fff;
+ }
+ h1{
+ 	text-align: center;
+ }
+h5{
+	color: #000;
+	text-align: center;
+}
+
